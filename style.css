@@ -1,4 +1,6 @@
 .cabeçalho{
     background-color: rgb(146, 146, 220);
     color: black;
+    padding: 15px;
+    text-align: center;
 }
