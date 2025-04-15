@@ -1,12 +1,19 @@
 .cabeçalho{
-    background-color: rgb(146, 146, 220);
-    color: black;
-    padding: 15px;
-    text-align: center;
+background-color: blue;
+color: black;
+padding: 15px;
+text-align: center;
 }
+
 .lista-principal{
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
+list-style: none;
+padding: 0;
+display: flex;
+justify-content: center;
+width: 20px;
+
+}
+.jurandir{
+font-size: 20px;
+color: deeppink;
 }
