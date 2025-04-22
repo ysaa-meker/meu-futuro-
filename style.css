@@ -1,37 +1,33 @@
-.cabeçalho{
-background-color: blue;
-color: black;
+
+.cabeçalho {
+background-color: #3b82f6; /* azul mais suave */
+color: white;
 padding: 20px;
 text-align: center;
-width: 100%;
-box-sizing: border-box;
+border-radius: 10px;
 }
-.lista-principal{
+
+.lista-principal {
 list-style: none;
 padding: 0;
 margin-top: 10px;
 display: flex;
 justify-content: center;
-gap: 10px;
-font-size: 20px ;
-flex-wrap: wrap;
+gap: 20px;
+font-size: 18px;
 }
 
-.jurandir{
+.item {
+background-color: white;
+color: #3b82f6;
+padding: 8px 12px;
+border-radius: 8px;
+font-weight: bold;
+}
+
+.jurandir {
 font-size: 20px;
 color: deeppink;
 margin: 30px;
 text-align: center;
-background-color: rgb(212, 180, 243);
-width: 100px;
-padding: 20px;
-box-sizing: border-box;
-}
-.item{
-background-color: rgb(166, 199, 199);
- color: black;
- padding: 8px 12px;
- border-radius: 8px;
- font-weight: bold;
-}
-
+background-color: bluevi
