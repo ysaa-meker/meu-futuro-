@@ -24,6 +24,9 @@ color: deeppink;
 margin: 30px;
 text-align: center;
 background-color: rgb(212, 180, 243);
+width: 100px;
+padding: 20px;
+box-sizing: border-box;
 }
 .item{
 background-color: rgb(166, 199, 199);
